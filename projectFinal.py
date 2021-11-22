@@ -331,7 +331,7 @@ best_model = search.best_estimator_
 
 print('\n__________________ ANALYZE AND TEST YOUR SOLUTION __________________')
 print('SOLUTION: ' , best_model)
-store_model(best_model, model_name="SOLUION")   
+  
 
 # 7.2 Analyse the SOLUTION to get more insights about the data
 # NOTE: ONLY for rand forest
