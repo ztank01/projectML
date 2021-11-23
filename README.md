@@ -1,4 +1,4 @@
-# projectML
+# Project Machine Learning Nhóm 4
 Link to file GridSearchCV(để trong thư mục saveObject): https://drive.google.com/file/d/1eKP6E45YiQ0ROaTU9LZuVz0WVyRnTUuo/view?usp=sharing
 # Mô tả về tập dữ liệu
 Tập train gồm có 8523 samples và tập test có 5681 samples
